@@ -6,7 +6,7 @@
 - 🛩 Instrested in Coding 😁
 - 📚 Still Studiying..😄
 - ⚡ fact: I am Noob😌
-- 📫 How to reach me: Telegram - [@Albert_Einstein_TG](https://telegram.me/Albert_Einstein_TG)
+- 📫 How to reach me: Telegram - [@AlbertEinstein_TG](https://telegram.me/AlbertEinstein_TG)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AlbertEinsteinTG&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
