@@ -19,7 +19,7 @@ I'm a passionate programmer and tech enthusiast currently pursuing a B.Tech in C
  🔍 I'm an enthusiastic learner and a deep thinker, always on the quest for knowledge and improvement.</br>
  🎉 Fun Fact: I'm an overthinker and an avid anime watcher—always finding inspiration in the most unexpected places.</br>
 
-<br><br>💬 Connect with Me<br><br>Feel free to reach out and connect with me! I'm always excited to collaborate on interesting projects or simply have a chat about technology, programming, or your favorite anime series.<br><br>📫 How to Reach Me<br><br>You can find me on [Telegram](https://telegram.me/AlbertEinsteingTG). Let's create something amazing together!<br>
+<br><br>💬 Connect with Me<br><br>Feel free to reach out and connect with me! I'm always excited to collaborate on interesting projects or simply have a chat about technology, programming, or your favorite anime series.<br><br>📫 How to Reach Me<br><br>You can find me on [Telegram](https://telegram.me/AlbertEinstein_TG). Let's create something amazing together!<br>
 
 
 ## 🌐 Socials:
